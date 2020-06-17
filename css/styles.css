@@ -10016,6 +10016,7 @@ p {
   margin-bottom: 1rem;
 }
 .page-section h3.section-subheading {
+  text-shadow: 2px -1px #ff0000;
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
